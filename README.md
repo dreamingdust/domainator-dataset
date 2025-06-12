@@ -2,8 +2,7 @@
 
 This repository contains traffic recordings of DNS malware that was recorded as part of the following paper:
 
-D. Petrov, P. Ruffing, S. Zillien, S. Wendzel: *[Domainator: ...](link to pre-print)*, in Proc. ARES 2025, Springer, 2025.
-[BibTex download](todo)
+D. Petrov, P. Ruffing, S. Zillien, S. Wendzel: *[Domainator: Detecting and Identifying DNS-Tunneling Malware Using Metadata Sequences](https://arxiv.org/abs/2505.22220)*, in Proc. ARES 2025, Springer, 2025.
 
 If you want to use the dataset, please refer to our paper.
 
