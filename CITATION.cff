@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Domainator: DNS Malware Traffic Dataset'
+message: 'If you want to use the dataset, please refer to our paper.'
+type: dataset
+authors:
+  - given-names: Denis
+    family-names: Petrov
+    email: petrov@hs-worms.de
+    orcid: 'https://orcid.org/0009-0000-7131-6844'
+    affiliation: 'Worms University of Applied Sciences, Germany'
+  - given-names: Pascal
+    family-names: Ruffing
+    email: ruffing@hs-worms.de
+    affiliation: 'Worms University of Applied Sciences, Germany'
+    orcid: 'https://orcid.org/0009-0001-3540-983X'
+  - given-names: Sebastian
+    family-names: Zillien
+    email: sebastian.zillien@uni-ulm.de
+    affiliation: 'Ulm University, Germany'
+    orcid: 'https://orcid.org/0000-0003-3360-1251'
+  - given-names: Steffen
+    family-names: Wendzel
+    email: steffen.wendzel@uni-ulm.de
+    affiliation: 'Ulm University, Germany'
+    orcid: 'https://orcid.org/0000-0002-1913-5912'
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/abs/2505.22220'
+    description: ArXiv
+repository-code: 'https://github.com/dreamingdust/domainator-dataset'
+keywords:
+  - Covert Channels
+  - DNS
+  - Malware
+  - Tunneling
